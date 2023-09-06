@@ -25,14 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop_version](./Desktop_version_FAQ Accordion Card.png)
+![Desktop_version](/Desktop_version_FAQ Accordion Card.png)
 
-![Mobile_version](./Mobile_verison_FAQ Accordion Card.png)
+![Mobile_version](/Mobile_verison_FAQ Accordion Card.png)
 
 ### Links
 
 - Solution URL: [https://github.com/MIBENIN/faq_accordion_card](https://github.com/MIBENIN/faq_accordion_card)
-- Live Site URL: [https://github.com/MIBENIN/faq_accordion_card](https://github.com/MIBENIN/faq_accordion_card)
+- Live Site URL: [https://mibenin.github.io/faq_accordion_card/](https://mibenin.github.io/faq_accordion_card/)
 
 ## My process
 
