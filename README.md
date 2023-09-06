@@ -25,9 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop_version](/Desktop_version_FAQ Accordion Card.png)
+![Desktop_version](Desktop_version_FAQ Accordion Card.png)
 
-![Mobile_version](/Mobile_verison_FAQ Accordion Card.png)
+![Mobile_version](Mobile_verison_FAQ Accordion Card.png)
 
 ### Links
 
